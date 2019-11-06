@@ -1,0 +1,38 @@
+
+    html, body{
+        height:100%;
+        background-color: beige;
+    
+    }
+    div{
+        border:blue solid 3px; 
+        display:inline-block;
+        width:30%;
+        height:30%;
+        font-size:30px;
+        color:violet;
+        font-family: 'Times New Roman', Times, serif;
+        text-align:center;
+        padding: 10px ;
+        /* margin:5%; */
+        margin: 10px;
+        overflow:scroll;
+        float: left;
+    }           
+    .clear_class{
+
+    clear:both;
+    }
+
+    .testclass{
+    
+    color:black; 
+    border:black solid 2px;
+    }
+    .testclass2{
+
+        color:red;
+    }
+    #test{
+        color:green;
+    }
